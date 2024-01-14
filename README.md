@@ -1,5 +1,16 @@
 # Library-System
-The program allows tracking of books and patron.
+The program allows tracking of books and patrons. The following files are included in this repository.
+
+DateUtils.java - This utility class is provided for you.
+Driver.java - This is the driver class that runs the entire project for your testing.
+Library.java - The Library class is provided for you. It is simulating a real Library.
+lflbooks.txt - Example books holding books information.
+patrons.txt - Example patrons holding patron information.
+SampleOutput.txt - A sample output of the entire program.
+Patron.java - This initializes all attributes of the Patron object.
+Book.java -This initializes all attributes of the Book object.
+
+
 
 ---
 
