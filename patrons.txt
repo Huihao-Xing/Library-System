@@ -1,0 +1,2 @@
+John Doe, jdoe@doe.com, 1, 0.0
+Jane Smith, jsmith@gmail.com, 2, 1.0
