@@ -1,5 +1,7 @@
 # Library-System
-The program allows tracking of books and patrons. The following files are included in this repository.
+The program allows tracking of books and patrons. 
+---
+The following files are included in this repository.
 
 
 DateUtils.java - This utility class is provided for you.
